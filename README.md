@@ -1,5 +1,7 @@
 # AI-Music-Generation
 
+Join me at www.dakshtrehan.com or www.linkedin.com/in/dakshtrehan
+
 The aim is to generate new music using LSTM and given dataset.
 
 1. Problem type :- Music Generation
